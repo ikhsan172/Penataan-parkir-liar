@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parkir Tertib</string>
+    <string name="default_notification_channel_id">razia_notifications</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard Penegakan</string>
+    <string name="total_violations">Total Pelanggaran</string>
+    <string name="unpaid_fines">Belum Dibayar</string>
+    <string name="official_locations">Lokasi Resmi</string>
+    <string name="active_raids">Razia Aktif</string>
+    <string name="recent_violations">Pelanggaran Terbaru</string>
+    <string name="see_all">Lihat Semua</string>
+    <string name="razia_notifications">Notifikasi Razia</string>
+    
+    <!-- Parking Locations -->
+    <string name="parking_locations_title">Lokasi Parkir Resmi</string>
+    <string name="search_parking">Cari lokasi parkir...</string>
+    <string name="total_locations">Total Lokasi</string>
+    <string name="available">Tersedia</string>
+    <string name="occupied">Terisi</string>
+    <string name="view_on_map">Lihat di Peta</string>
+    
+    <!-- Razia -->
+    <string name="razia_title">Operasi Razia</string>
+    <string name="add_razia">Tambah Razia</string>
+    <string name="all">Semua</string>
+    <string name="active">Aktif</string>
+    <string name="completed">Selesai</string>
+    <string name="total_raids">Total Razia</string>
+    <string name="no_razia_notifications">Tidak ada notifikasi razia</string>
+    <string name="no_razia_description">Ketika ada operasi razia, notifikasi akan muncul di sini</string>
+    
+    <!-- Payment -->
+    <string name="payment_title">Pembayaran E-Parking</string>
+    <string name="payment_summary">Ringkasan Pembayaran</string>
+    <string name="total_violations_count">Total Pelanggaran:</string>
+    <string name="unpaid_count">Belum Dibayar:</string>
+    <string name="total_fine">Total Denda:</string>
+    <string name="unpaid">Belum Dibayar</string>
+    <string name="paid">Sudah Dibayar</string>
+    <string name="pay_now">Bayar Sekarang</string>
+    <string name="no_violations">Tidak ada pelanggaran</string>
+    <string name="all_paid">Semua denda sudah dibayar</string>
+    
+    <!-- Camera -->
+    <string name="camera_title">Foto Bukti Pelanggaran</string>
+    <string name="back">Kembali</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="photo_guide">Panduan Foto Bukti</string>
+    <string name="photo_instructions">• Pastikan nomor kendaraan terlihat jelas\n• Foto dari berbagai sudut pandang\n• Hindari bayangan yang mengganggu</string>
+    <string name="gallery">Galeri</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="flash">Flash</string>
+    
+    <!-- Violation Status -->
+    <string name="status_pending">Menunggu</string>
+    <string name="status_confirmed">Dikonfirmasi</string>
+    <string name="status_paid">Lunas</string>
+    <string name="status_appealed">Banding</string>
+    <string name="status_cancelled">Dibatalkan</string>
+    
+    <!-- Common -->
+    <string name="fine">Denda</string>
+    <string name="location">Lokasi</string>
+    <string name="time">Waktu</string>
+    <string name="available_spots">tersedia</string>
+    <string name="hourly_rate">/jam</string>
+    <string name="operating_hours">Jam Operasional</string>
+    <string name="contact_info">Kontak</string>
+    <string name="affected_areas">Area Terdampak:</string>
+</resources>
